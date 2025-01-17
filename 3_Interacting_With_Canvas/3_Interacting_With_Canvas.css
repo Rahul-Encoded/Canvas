@@ -1,0 +1,12 @@
+canvas{
+    border: 1px solid black;
+    /*
+    height: 100%;
+    width: 100%;
+    Does not get resized to the entirety of the height and width. Therefore we will change these parameteres with the help of javascript.
+    */
+}
+
+body{
+    margin: 0;
+}
